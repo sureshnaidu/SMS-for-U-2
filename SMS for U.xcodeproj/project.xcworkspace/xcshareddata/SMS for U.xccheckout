@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23E5549C-14CA-4720-8443-C329845A2B1C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SMS for U</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7754AEBAB668C713CBB406E093E1E12BC6AC91F</key>
+		<string>https://github.com/sureshnaidu/SMS-for-U-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SMS for U.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7754AEBAB668C713CBB406E093E1E12BC6AC91F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sureshnaidu/SMS-for-U-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7754AEBAB668C713CBB406E093E1E12BC6AC91F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7754AEBAB668C713CBB406E093E1E12BC6AC91F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SMS-for-U-2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
